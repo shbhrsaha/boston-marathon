@@ -1,4 +1,4 @@
-These scripts enable users to rapidly search for names in the 2013 Boston Marathon list. Read more at http://www.princeton.edu/~saha/
+These scripts enable users to rapidly search for names in the 2013 Boston Marathon list. Read more at http://www.princeton.edu/~saha/boston-marathon/
 
 USAGE
 =====
